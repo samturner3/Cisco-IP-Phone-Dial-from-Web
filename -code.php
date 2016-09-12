@@ -1,0 +1,1 @@
+<?header("Content-type: text/xml");header("Connection: close");header("Expires: -1");?><CiscoIPPhoneText><Title>Authentication Code: 5137</Title><Text>Enter code above into browser to dial number</Text></CiscoIPPhoneText>

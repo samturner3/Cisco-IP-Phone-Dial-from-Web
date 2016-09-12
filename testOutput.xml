@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<CiscoIPPhoneText>
+<Title>Cisco XML Test Message Demo</Title>
+<Prompt/>
+<Text>
+Code Is: XXXX
+</Text>
+</CiscoIPPhoneText>
