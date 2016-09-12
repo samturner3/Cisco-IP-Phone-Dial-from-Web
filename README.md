@@ -1,5 +1,5 @@
 # Cisco-IP-Phone-Dial-from-Web
-A tool to dial a number on your Cisco IP Phone from your browser
+A tool to dial a number on your Cisco IP Phone from your browser with authentication.
 
 1. webDial.html (IP ADDRESS, NUMBER TO DIAL) => push to dialPushCheck.php
 
