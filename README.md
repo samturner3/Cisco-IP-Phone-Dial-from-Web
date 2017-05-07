@@ -1,6 +1,6 @@
 # Cisco-IP-Phone-Dial-from-Web
 
-## Breif
+## Brief
 
 A tool to dial a number on your Cisco IP Phone from your browser with authentication.
 
